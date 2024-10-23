@@ -12,7 +12,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/) -->
 
-- 📝 I regularly write articles on [LinkedIn](https://x.com/Suresh_Timma)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sureshtimma/)
 
 <!-- - 💬 Ask me about ** Python and Responsive Web Development ** -->
 
