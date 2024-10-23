@@ -4,19 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SureshTimma&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
+- 🔭 I’m currently working on [Abigna Academy Android App and Website]([https://chatroomdamaris.netlify.app/](https://play.google.com/store/apps/details?id=com.app.abignaacademy))
 
-- 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/) -->
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
+- 📝 I regularly write articles on [LinkedIn](https://x.com/Suresh_Timma)
 
-- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi, WordPress, SEO **
+<!-- - 💬 Ask me about ** Python and Responsive Web Development ** -->
 
-- 📫 How to reach me **peterkimanzikithumba@gmail.com**
+- 📫 How to reach me **psnl.shtim@gmail.com**
+
+  <br>
+  <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SureshTimma&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SureshTimma&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SureshTimma&show_icons=true&locale=en" alt="peter-kimanzi" /></p> -->
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshTimma&" alt="peter-kimanzi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshTimma&" alt="peter-kimanzi" /></p>
