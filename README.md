@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SureshTimma&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Abigna Academy Android App and Website]([https://chatroomdamaris.netlify.app/](https://play.google.com/store/apps/details?id=com.app.abignaacademy))
+- 🔭 I’m currently working on [Abigna Academy Android App and Website](https://play.google.com/store/apps/details?id=com.app.abignaacademy)
 -  👀 I’m interested in exploring new things in this fast paced world and adapting them to grow better everyday.
 - 🌱 I’m currently learning Python,Frontend Development, Pandas and Communicative English
+- 🧠 I developed a realtime android app using JAVA using chatgpt. Its live on playstore.
 - 💞️ I’m looking to collaborate on data science and Machine Learning projects
 
 <!-- - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/) -->
