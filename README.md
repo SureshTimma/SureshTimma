@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @SureshTimma
-- 🏫 I'm student at NIAT(Nxtwave Institute of Advanced Technologies)
-- 👀 I’m interested in exploring new things in this fast paced world and adapting them to grow better everyday.
-- 🌱 I’m currently learning Python,Frontend Development, Pandas and Communicative English
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me: **psnl.shtim@gmail.com** or **insta @Suresh_Timma**
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+<h1 align="center">Hi 👋, I'm Suresh Timma </h1>
+<h3 align="center">A CS Student studying in NIAT(Nxtwave Institute of Advanced Technologies)</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
+- 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
+
+- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi, WordPress, SEO **
+
+- 📫 How to reach me **peterkimanzikithumba@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SureshTimma&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
