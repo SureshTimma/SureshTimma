@@ -4,3 +4,10 @@
 - 🌱 I’m currently learning Python,Frontend Development, Pandas and Communicative English
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: **psnl.shtim@gmail.com** or **insta @Suresh_Timma**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&" alt="peter-kimanzi" /></p>
